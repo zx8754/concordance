@@ -1,9 +1,5 @@
-concordance
+Concordance Typed and Imputed SNPs
 ===========
-Date: 20/10/2013
-
-## Concordance Typed and Imputed SNPs.
-
 ### Example input files
 #### Impute output
 ```
@@ -14,15 +10,12 @@ impute.sample
 ```
 plink.raw
 ```
-
 ### Run
 ```
 Rscript Concordance.R impute.gen impute.sample plink.raw rs17599629"
 ```
-
 ### Output
-Scatter plot - rs17599629.png file
-
+Scatter plot - `rs17599629.png` file
 Correlation summary for rs17599629
 ```
          SNP MatchingSamples MatchingSamplesExclNoCall Concordance
