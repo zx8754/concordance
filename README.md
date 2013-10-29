@@ -12,7 +12,7 @@ plink.raw
 ```
 ### Run
 ```
-Rscript Concordance.R impute.gen impute.sample plink.raw rs17599629
+Rscript concordance.R impute.gen impute.sample plink.raw rs17599629
 ```
 ### Output
 Scatter plot - `rs17599629.png` file
