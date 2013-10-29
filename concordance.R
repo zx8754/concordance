@@ -8,7 +8,7 @@ args<-commandArgs(TRUE)
 if(length(args)!=4) {
   print(paste0("Note: gen/sample files - standard IMPUTE output files."))
   print(paste0("      plink raw file - plink output with '--recode' option."))
-  print(paste0("Example: Rscript Concordance.R impute.gen impute.sample plink.raw rs12345"))
+  print(paste0("Example: Rscript concordance.R impute.gen impute.sample plink.raw rs17599629"))
   stop("Provide 4 arguments")
 }
 
