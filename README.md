@@ -17,6 +17,9 @@ Rscript concordance.R impute.gen impute.sample plink.raw rs17599629
 ### Output
 Scatter plot - `rs17599629.png` file.
 
+![rs17599629.png](https://raw.github.com/zx8754/concordance/master/rs17599629.png)
+
+
 Correlation summary for rs17599629
 ```
          SNP MatchingSamples MatchingSamplesExclNoCall Concordance
