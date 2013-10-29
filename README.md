@@ -15,7 +15,8 @@ plink.raw
 Rscript concordance.R impute.gen impute.sample plink.raw rs17599629
 ```
 ### Output
-Scatter plot - `rs17599629.png` file
+Scatter plot - `rs17599629.png` file.
+
 Correlation summary for rs17599629
 ```
          SNP MatchingSamples MatchingSamplesExclNoCall Concordance
