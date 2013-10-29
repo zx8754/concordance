@@ -6,7 +6,7 @@ Concordance Typed and Imputed SNPs
 impute.gen
 impute.sample
 ```
-#### Plink raw output *--recode* option
+#### Plink raw output *--recodeA* option
 ```
 plink.raw
 ```
